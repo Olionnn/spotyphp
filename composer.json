@@ -1,0 +1,12 @@
+{
+  "require": {
+    "symfony/flex": "^1.6.2",
+    "monolog/monolog": "^1.22",
+    "twig/twig": "^2.0",
+    "symfony/twig-bridge": "^3",
+    "ext-mysqli": "*"
+  },
+  "require-dev": {
+    "heroku/heroku-buildpack-php": "*"
+  }
+}
